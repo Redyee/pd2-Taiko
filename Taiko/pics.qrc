@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>bg.png</file>
+        <file>../img/bg_clear.png</file>
+        <file>../img/mtaiko.png</file>
+        <file>blog_140619_00.jpg</file>
+        <file>Start.png</file>
+        <file>鼓 red.gif</file>
+        <file>警察叔叔.jpg</file>
+        <file>鼓 blue.png</file>
+        <file>野豬騎士.png</file>
+    </qresource>
+</RCC>
